@@ -1,3 +1,0 @@
-C:/Users/mndav/source/repos/TBS_lab2/out/build/x64-debug/CMakeFiles/TBS_lab2.dir
-C:/Users/mndav/source/repos/TBS_lab2/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/mndav/source/repos/TBS_lab2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
