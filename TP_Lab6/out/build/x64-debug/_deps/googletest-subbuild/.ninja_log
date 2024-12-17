@@ -1,0 +1,21 @@
+# ninja log v5
+3619	3710	7558888623273083	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8196d96e518c0203
+2	99	7558888587251403	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	47a6a158974eff94
+3342	3440	7558888620598522	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	56c95abb7ec6ea0c
+2	99	7558888587251403	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	47a6a158974eff94
+3440	3530	7558888621545076	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	56dc85c850a63468
+100	3342	7558888619654583	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	859ea73080512bc0
+100	3342	7558888619654583	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	859ea73080512bc0
+3342	3440	7558888620598522	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	56c95abb7ec6ea0c
+3440	3530	7558888621545076	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	56dc85c850a63468
+3530	3619	7558888622330979	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2ea4a42e1591a9cd
+3891	4042	7558888626560596	CMakeFiles/googletest-populate-complete	aaa7125dbbb5aa92
+3530	3619	7558888622330979	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2ea4a42e1591a9cd
+3619	3710	7558888623273083	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8196d96e518c0203
+3711	3801	7558888624209976	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	ef15df67be0d3d99
+3711	3801	7558888624209976	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	ef15df67be0d3d99
+3802	3891	7558888625153670	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d71b1a3c32f5d4a7
+3802	3891	7558888625153670	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d71b1a3c32f5d4a7
+3891	4042	7558888626560596	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	aaa7125dbbb5aa92
+3891	4042	7558888626560596	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	aaa7125dbbb5aa92
+3891	4042	7558888626560596	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	aaa7125dbbb5aa92

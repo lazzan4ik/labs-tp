@@ -1,0 +1,17 @@
+# ninja log v5
+5	3277	7558886252916584	CMakeFiles/TP_Lab6.dir/TP_Lab6.cpp.obj	9e21507af2e59b54
+102	1916	7558891392852293	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	62f6c6dd1b09b78
+85	2082	7558891394583810	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	f99b5c81a3b78d86
+62	2881	7558891402606749	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	b82d9d5431896658
+76	2910	7558891402922638	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	f412127a2c8ae40e
+69	3904	7558891412785866	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	7534494504679beb
+17	3928	7558891412942532	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	5e2f0b60291e83c6
+94	4004	7558891413745058	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	6f7ae1e97946223
+64	185	7558891660392509	lib/gtest.lib	fbe074513b51b
+50	197	7558891660535600	lib/gmock_main.lib	aa52f6acf8e52c9b
+37	198	7558891660535600	lib/gmock.lib	63beb969954672d
+186	244	7558891661169614	lib/gtest_main.lib	47f5d7d34947b21d
+30	1497	7558891673629262	CMakeFiles/TP_Lab6.dir/TP_Lab6.cpp.obj	ca2600b0af5f1123
+1498	2262	7558891681322895	TP_Lab6.exe	8610a43c2d185b99
+1498	2262	7558891681322895	TP_Lab6[1]_tests.cmake	8610a43c2d185b99
+1498	2262	7558891681322895	C:/Users/mndav/tp_labs/TP_Lab6/out/build/x64-debug/TP_Lab6[1]_tests.cmake	8610a43c2d185b99

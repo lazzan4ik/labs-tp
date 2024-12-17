@@ -1,0 +1,3 @@
+C:/Users/mndav/tp_labs/TP_Lab5/out/build/x64-debug/CMakeFiles/TP_Lab5.dir
+C:/Users/mndav/tp_labs/TP_Lab5/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/mndav/tp_labs/TP_Lab5/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
